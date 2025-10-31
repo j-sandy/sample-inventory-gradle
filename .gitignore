@@ -91,6 +91,7 @@
 /src/*/resources/application-kind.properties
 /src/*/resources/application-kind.yml
 /src/*/resources/application-kind.yaml
+/metadata/
 /src/*/resources/application-local-docker.properties
 /src/*/resources/application-local-docker.yml
 /src/*/resources/application-local-docker.yaml
