@@ -17,11 +17,6 @@
 .apt_generated_test
 .springBeans
 .sts4-cache
-/gradle-wrapper
-!gradle-wrapper.jar
-!gradle-wrapper.properties
-/gradlew
-/gradlew.bat
 /src/*/resources/static/
 /src/*/resources/public/
 /src/*/resources/templates/
